@@ -1,5 +1,5 @@
 {
-  "telegram_token": "7712843199:AAEf5YFXGw35nihSdvST1ndq7yLeGn3i72k",
+  "telegram_token": "${",
   "chats": {
       "1504999948": {
         "debug_group": false,
